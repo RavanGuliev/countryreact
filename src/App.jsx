@@ -4,7 +4,7 @@ function App() {
    <header className="p-4 bg-gray-500">
 	<div className="container flex justify-between h-16 mx-auto">
 		<a rel="noopener noreferrer" href="#" aria-label="Back to homepage" className="flex items-center p-2">
-			<img src="/public/aze.png" className="w-32 " alt="" />
+			<img src="https://static.vecteezy.com/system/resources/previews/015/309/639/non_2x/azerbaijan-waving-flag-realistic-transparent-background-free-png.png" className="w-32 " alt="" />
 		</a>
 		<ul className="items-stretch hidden space-x-3 md:flex">
 			<li className="flex">
