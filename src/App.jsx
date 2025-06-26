@@ -8,14 +8,14 @@ function App() {
 		</a>
 		<ul className="items-stretch hidden space-x-3 md:flex">
 			<li className="flex">
-				<a rel="noopener noreferrer" href="#" className="flex items-center px-4 -mb-1 border-b-2 text-blue-600 dark:border-">AZER</a>
+				<a rel="noopener noreferrer" href="#" className="flex items-center px-4 -mb-1 border-b-2 text-blue-600 dark:border-">Avropa</a>
 			</li>
 			
 			<li className="flex">
-				<a rel="noopener noreferrer" href="#" className="flex items-center px-4 -mb-1 border-b-2 dark:border- text-red-600 dark:border-red-600">BAY</a>
+				<a rel="noopener noreferrer" href="#" className="flex items-center px-4 -mb-1 border-b-2 dark:border- text-red-600 dark:border-red-600">Asia</a>
 			</li>
 			<li className="flex">
-				<a rel="noopener noreferrer" href="#" className="flex items-center px-4 -mb-1 border-b-2 text-green-600 dark:border-">CAN</a>
+				<a rel="noopener noreferrer" href="#" className="flex items-center px-4 -mb-1 border-b-2 text-green-600 dark:border-"></a>
 			</li>
 		</ul>
 		<button className="flex justify-end p-4 md:hidden">

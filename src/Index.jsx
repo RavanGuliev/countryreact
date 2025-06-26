@@ -27,8 +27,8 @@ function Index() {
 	<div className="container px-20 mx-auto space-y-8">
     <RandomCard {...data[randomIndex]} />
 		<div className="space-y-2 text-center">
-			<h2 className="text-3xl font-bold">Prosta Olkeler brat</h2>
-			<p className="font-serif text-xl dark:text-gray-200">(Heleki)</p>
+			<h2 className="text-3xl font-bold">Rest Countries</h2>
+			<p className="font-serif text-xl dark:text-gray-200">(default)</p>
 		</div>
 		<div className="grid grid-cols-1 gap-x-4 gap-y-8 md:grid-cols-2 lg:grid-cols-4">
 
